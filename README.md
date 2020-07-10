@@ -1,2 +1,2 @@
-# GCSO
-This simulation calculates the deformation of a car and displays the level of deformation through a series of colors.
+# p5.play-boilerplate
+Boiler plate for p5.play
